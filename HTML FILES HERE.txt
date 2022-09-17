@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>Basic HTML template</title>
+		<meta charset="UTF-8" />
+		<meta name="description" content="ENTER DESCRIPTION HERE" />
+		<meta name="keywords" content="KEY, WORDS, HERE" />
+		<meta name="author" content="Rachel Heaton" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="FILE.css" />
+		<link rel="icon" href="favicon.ico" />
+		<style>
+			
+		</style>
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+		</script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="wrapper">
+			<header role="banner"></header>
+			<nav role="navigation">
+			
+			</nav>
+			<main role="main">
+			
+			</main>
+			<footer role="contentinfo"></footer>
+		</div>
+	</body>	
+</html>
